@@ -1,0 +1,8 @@
+:root {
+  font-family: sans-serif;
+  --color__primary: #3d3bff;
+  --color__secondary: #e0e0e0;
+  --color__error: #ef4949;
+  --color__background: #ffffff;
+  --color__text: #000000;
+}

@@ -1,0 +1,26 @@
+{
+  "1efd4999-66c4-45bb-8cc6-380f502ac6e0": {
+    "id": "1efd4999-66c4-45bb-8cc6-380f502ac6e0",
+    "text": "Привет!",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704667927784
+  },
+  "cb1ba1bd-1456-4e83-84f7-d713466dee21": {
+    "id": "cb1ba1bd-1456-4e83-84f7-d713466dee21",
+    "text": "Как дела?",
+    "authorId": "9878f52d-477e-4c6c-ba08-97ceaf67308f",
+    "createdAt": 1704668049395
+  },
+  "5500d6e3-ae06-4a73-9a68-48062ccf0c2d": {
+    "id": "5500d6e3-ae06-4a73-9a68-48062ccf0c2d",
+    "text": "Неплохо :)",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901834902
+  },
+  "35b6baa1-4f41-4886-89bf-20dd83b78364": {
+    "id": "35b6baa1-4f41-4886-89bf-20dd83b78364",
+    "text": "А ты как?",
+    "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
+    "createdAt": 1704901870088
+  }
+}

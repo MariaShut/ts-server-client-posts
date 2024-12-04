@@ -1,0 +1,13 @@
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.registration-form__error {
+  color: var(--color__error);
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-left: 8px;
+}

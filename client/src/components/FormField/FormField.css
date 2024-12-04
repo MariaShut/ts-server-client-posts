@@ -1,0 +1,36 @@
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.form-field__label {
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--color__text);
+  font-family: sans-serif;
+  padding-left: 8px;
+}
+
+.form-field__error {
+  font-size: 12px;
+  color: var(--color__error);
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-left: 8px;
+}
+
+.form-field > input,
+.form-field > textarea {
+  border-radius: 8px;
+  border: 2px solid var(--color__secondary);
+  font-size: 16px;
+  line-height: 24px;
+  padding: 6px;
+  resize: none;
+}
+
+.form-field:has(.form-field__error) > input,
+.form-field:has(.form-field__error) > textarea {
+  border-color: var(--color__error);
+}

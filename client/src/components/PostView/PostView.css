@@ -1,0 +1,26 @@
+.post-view {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  border-radius: 16px;
+  box-sizing: border-box;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  padding: 8px;
+  background-color: var(--color__background);
+}
+
+.post-view__text {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: sans-serif;
+  color: var(--color__text);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.post-view__time {
+  font-size: 12px;
+  line-height: 16px;
+  font-family: sans-serif;
+  color: var(--color__text);
+}
